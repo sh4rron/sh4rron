@@ -23,9 +23,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sh4rron/sh4rron/raw/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/sh4rron/sh4rron/raw/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://github.com/sh4rron/sh4rron/raw/output/github-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sh4rron/sh4rron/raw/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/sh4rron/sh4rron/raw/output/snake.svg" />
+    <img alt="Contribution snake" src="https://github.com/sh4rron/sh4rron/raw/output/snake-dark.svg" width="100%" />
   </picture>
 </p>
 
