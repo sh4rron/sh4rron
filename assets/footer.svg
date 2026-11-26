@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170">
+  <style>
+    .mono{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace}
+    .sans{font-family:'Segoe UI',Inter,-apple-system,Arial,sans-serif}
+    .w1{animation:wave 9s ease-in-out infinite}
+    .w2{animation:wave 12s ease-in-out infinite reverse}
+    .fade{opacity:0;animation:fade 1.2s .3s ease-out forwards}
+    @keyframes wave{0%,100%{transform:translateX(0)}50%{transform:translateX(-60px)}}
+    @keyframes fade{to{opacity:1}}
+  </style>
+  <defs><clipPath id="c"><rect width="1200" height="170" rx="20"/></clipPath></defs>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="170" fill="#020c1b"/>
+    <path class="w2" d="M0 120 Q150 90 300 120 T600 120 T900 120 T1200 120 T1500 120 V170 H0Z" fill="#7f5af0" fill-opacity=".18"/>
+    <path class="w1" d="M0 135 Q150 110 300 135 T600 135 T900 135 T1200 135 T1500 135 V170 H0Z" fill="#64ffda" fill-opacity=".14"/>
+    <g class="fade">
+      <text class="sans" x="600" y="62" text-anchor="middle" font-size="24" font-style="italic" fill="#ccd6f6">"Experience is the name everyone gives to their mistakes."</text>
+      <text class="mono" x="600" y="94" text-anchor="middle" font-size="14" fill="#64ffda">— Oscar Wilde · thanks for stopping by ✦</text>
+    </g>
+  </g>
+</svg>
