@@ -1,7 +1,7 @@
 <img src="./assets/banner.svg" width="100%" alt="Hi, I'm Jonathan: learning by building, on my way to IT project manager and software engineer" />
 
 <p align="center">
-  <a href="https://sh4rron.github.io/jonathan-portfolio/"><img src="./assets/btn-portfolio.svg" height="40" alt="Portfolio" /></a>
+  <a href="https://sh4rron.github.io/"><img src="./assets/btn-portfolio.svg" height="40" alt="Portfolio" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/jonathansharron/"><img src="./assets/btn-linkedin.svg" height="40" alt="LinkedIn" /></a>
 </p>
