@@ -1,8 +1,9 @@
 <img src="./assets/banner.svg" width="100%" alt="Hi, I'm Jonathan: learning by building, on my way to IT project manager and software engineer" />
 
 <p align="center">
-  <a href="https://jonathanongithubs.github.io/jonathan-portfolio/"><img src="https://img.shields.io/badge/portfolio-0a192f?style=for-the-badge&logo=googlechrome&logoColor=64ffda" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/jonathansimanjuntak/"><img src="https://img.shields.io/badge/linkedin-0a192f?style=for-the-badge&logo=linkedin&logoColor=64ffda" alt="LinkedIn" /></a>
+  <a href="https://jonathanongithubs.github.io/jonathan-portfolio/"><img src="./assets/btn-portfolio.svg" height="40" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/jonathansimanjuntak/"><img src="./assets/btn-linkedin.svg" height="40" alt="LinkedIn" /></a>
 </p>
 
 <br />

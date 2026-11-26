@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="164" height="40" viewBox="0 0 164 40">
+  <defs>
+    <linearGradient id="s" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#64ffda" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#64ffda" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#64ffda" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="c"><rect width="164" height="40" rx="20"/></clipPath>
+  </defs>
+  <style>
+    .t{font-family:'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace}
+    .sh{animation:sh 4s ease-in-out infinite}
+    @keyframes sh{0%{transform:translateX(-120px)}60%,100%{transform:translateX(200px)}}
+  </style>
+  <g clip-path="url(#c)">
+    <rect width="164" height="40" fill="#0a192f"/>
+    <rect class="sh" width="80" height="40" fill="url(#s)"/>
+  </g>
+  <rect x=".75" y=".75" width="162.5" height="38.5" rx="19.25" fill="none" stroke="#64ffda" stroke-opacity=".55" stroke-width="1.5"/>
+  <g transform="translate(22 12)" fill="none" stroke="#64ffda" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x=".5" y=".5" width="15" height="15" rx="3"/><path d="M4.5 7v5M4.5 4.3v.1M7.8 12V7M7.8 9.2c0-1.4 1-2.3 2.2-2.3s1.9.9 1.9 2.3V12"/></g>
+  <text class="t" x="98" y="25" text-anchor="middle" font-size="13" font-weight="600" letter-spacing="1.5" fill="#ccd6f6">linkedin</text>
+</svg>
