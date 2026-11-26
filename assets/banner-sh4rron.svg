@@ -71,7 +71,7 @@
     </g>
 
     <text class="mono in a1" x="600" y="104" text-anchor="middle" font-size="18" fill="#64ffda" letter-spacing="2">hi, i'm</text>
-    <text class="sans in a2" x="600" y="186" text-anchor="middle" font-size="84" font-weight="800" letter-spacing="-2" fill="url(#nameFill)">Jonathan</text>
+    <text class="sans in a2" x="600" y="186" text-anchor="middle" font-size="84" font-weight="800" letter-spacing="-2" fill="url(#nameFill)">sh4rron</text>
 
     <g class="in a3">
       <rect class="sweep" x="450" y="261" width="300" height="1.5" fill="url(#line)"/>
