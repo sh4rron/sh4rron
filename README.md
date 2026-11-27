@@ -16,7 +16,7 @@
 <br />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,tailwind,php,laravel,mysql,python,rust,unity,git&theme=dark" alt="Tools I use" />
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,php,laravel,mysql,python,rust,cs,unity,git&theme=dark" alt="Tools I use" />
 </p>
 
 <br />
